@@ -1,5 +1,5 @@
 # NHS A&E Waiting Time Analysis Dashboard
-
+![Dashboard Preview](dashboard_screenshot.png)
 This project visualizes the performance of NHS Trusts in England against the A&E 4-hour waiting time target using simulated NHS data. The goal is to identify performance gaps and regional disparities to support operational improvements.
 
 ## 📊 Project Overview
