@@ -1,5 +1,3 @@
-# NHS-AE-Waiting-Time-Analysis
-Power BI dashboard analyzing NHS A&amp;E 4-hour target performance across regions and Trusts
 # NHS A&E Waiting Time Analysis Dashboard
 
 This project visualizes the performance of NHS Trusts in England against the A&E 4-hour waiting time target using simulated NHS data. The goal is to identify performance gaps and regional disparities to support operational improvements.
@@ -25,10 +23,11 @@ This project visualizes the performance of NHS Trusts in England against the A&E
 ## 📎 Files Included
 
 - `NHS_AE_Waiting_Time_Analysis.pdf` – Full dashboard in PDF
-- `dashboard_screenshot.png` – Static visual snapshot for preview
+- `dashboard_screenshot.png` – Static visual snapshot for preview (optional)
 - `README.md` – Project description
 
 ## 📌 Author Note
 
 This project was completed as part of my self-study journey to become a Healthcare Data Analyst. Feedback and suggestions are welcome!
+
 
